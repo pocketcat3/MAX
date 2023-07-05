@@ -228,3 +228,122 @@ footer a{
   top: -55px;
   left: 35px;
 }
+
+
+
+.task1name{
+  color: #A0A0A0;
+  text-align: center;
+  font-size: 80px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
+
+.task1money{
+  color: #A0A0A0;
+  text-align: center;
+  font-size: 120px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 49px;
+  left: 975px;
+}
+
+.task1time{
+  color: #A0A0A0;
+  text-align: center;
+  font-size: 120px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  left: 1210px;
+}
+
+.task2name{
+  color: #69FF5B;
+  text-align: center;
+  font-size: 80px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 370px;
+  left: 50px;
+}
+
+.task2money{
+  color: #69FF5B;
+  text-align: center;
+  font-size: 120px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 320px;
+  left: 975px;
+}
+
+.task2time{
+  color: #69FF5B;
+  text-align: center;
+  font-size: 120px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 320px;
+  left: 1210px;
+}
+
+.task3name{
+  color: #B413FF;
+  text-align: center;
+  font-size: 80px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 635px;
+  left: 50px;
+}
+
+.task3money{
+  color: #B413FF;
+  text-align: center;
+  font-size: 120px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 585px;
+  left: 975px;
+}
+
+.task3time{
+  color: #B413FF;
+  text-align: center;
+  font-size: 120px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 585px;
+  left: 1210px;
+}
