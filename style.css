@@ -372,3 +372,27 @@ footer a{
   top: 615px;
   left: 32px;
 }
+
+.deleteAccount{
+  position: absolute;
+  top: 1600px;
+  left: 335px;
+}
+
+.exit{
+  position: absolute;
+  top: 145px;
+  left: 1360px;
+}
+
+.changePassword{
+  position: absolute;
+  top: 145px;
+  left: 60px;
+}
+
+.FAQ{
+  position: absolute;
+  top: 145px;
+  left: 930px;
+}
