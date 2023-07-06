@@ -350,6 +350,23 @@ footer a{
 
 
 
+.videoText{
+  display: flex;
+  width: 1500px;
+  height: 102px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #FFA252;
+  text-align: center;
+  font-family: Rubik;
+  font-size: 84px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  position: absolute;
+  top: 410px;
+  left: 60px;
+}
 .video{
   position: absolute;
   top: 615px;
