@@ -657,3 +657,27 @@ footer a{
   top: 1430px;
   left: 85px;
 }
+
+.addButton1{
+  position: absolute;
+  top: 225px;
+  left: 1290px;
+}
+
+.addButton2{
+  position: absolute;
+  top: 545px;
+  left: 1290px;
+}
+
+.addButton3{
+  position: absolute;
+  top: 865px;
+  left: 1290px;
+}
+
+.addButton4{
+  position: absolute;
+  top: 1185px;
+  left: 1290px;
+}
