@@ -410,3 +410,51 @@ footer a{
   top: -55px;
   left: 35px;
 }
+
+.addTask1Name{
+  display: flex;
+  width: 556px;
+  height: 240px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #4F4F4F;
+  text-align: center;
+  font-family: Rubik;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+
+.addTask1Time{
+  display: flex;
+  width: 284px;
+  height: 158px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #4F4F4F;
+  text-align: center;
+  font-family: Rubik;
+  font-size: 128px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+
+.addTask1Money{
+  display: flex;
+  width: 240px;
+  height: 240px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #4F4F4F;
+  text-align: center;
+  font-family: Rubik;
+  font-size: 128px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
