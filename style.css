@@ -396,3 +396,17 @@ footer a{
   top: 145px;
   left: 930px;
 }
+
+
+
+.addTask{
+  color: #FFA252;
+  font-size: 76px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  position: absolute;
+  top: -55px;
+  left: 35px;
+}
