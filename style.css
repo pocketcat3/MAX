@@ -425,6 +425,9 @@ footer a{
   font-style: normal;
   font-weight: 900;
   line-height: normal;
+  position: absolute;
+  top: 160px;
+  left: 130px;
 }
 
 .addTask1Time{
@@ -441,6 +444,9 @@ footer a{
   font-style: normal;
   font-weight: 900;
   line-height: normal;
+  position: absolute;
+  top: 135px;
+  left: 700px;
 }
 
 .addTask1Money{
@@ -457,4 +463,7 @@ footer a{
   font-style: normal;
   font-weight: 900;
   line-height: normal;
+  position: absolute;
+  top: 95px;
+  left: 1015px;
 }
