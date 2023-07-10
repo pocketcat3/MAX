@@ -482,6 +482,9 @@ footer a{
   font-style: normal;
   font-weight: 900;
   line-height: normal;
+  position: absolute;
+  top: 480px;
+  left: 130px;
 }
 
 .addTask2Time{
@@ -491,7 +494,7 @@ footer a{
   flex-direction: column;
   justify-content: center;
   flex-shrink: 0;
-  color: #4F4F4F;
+  color: #11D600;
   text-align: center;
   font-family: Rubik;
   font-size: 128px;
@@ -510,7 +513,7 @@ footer a{
   flex-direction: column;
   justify-content: center;
   flex-shrink: 0;
-  color: #4F4F4F;
+  color: #11D600;
   text-align: center;
   font-family: Rubik;
   font-size: 128px;
