@@ -681,3 +681,42 @@ footer a{
   top: 1185px;
   left: 1290px;
 }
+
+.wallet{
+  color: #FFA252;
+  font-family: Rubik;
+  font-size: 76px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  position: absolute;
+  top: -55px;
+  left: 35px;
+}
+
+.myMoney{
+  display: flex;
+  width: 1131px;
+  height: 243px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #FFA252;
+  font-family: Rubik;
+  font-size: 240px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  position: absolute;
+  top: -25px;
+  left: 155px;
+}
+
+.dollarImg{
+  width: 320px;
+  height: 324px;
+  flex-shrink: 0;
+  position: absolute;
+  top: 171px;
+  left: 1248px;
+}
