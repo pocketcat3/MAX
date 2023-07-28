@@ -60,7 +60,7 @@ footer a{
 
 
 
-.money{
+#money{
   color: #FFA252;
   font-size: 140px;
   font-family: Rubik;
@@ -145,7 +145,7 @@ footer a{
 
 
 
-.task1{
+#task1{
   color: #A0A0A0;
   text-align: center;
   font-size: 100px;
@@ -171,7 +171,7 @@ footer a{
   left: 1200px;
 }
 
-.task2{
+#task2{
   color: #69FF5B;
   text-align: center;
   font-size: 100px;
@@ -197,7 +197,7 @@ footer a{
   left: 1190px;
 }
 
-.task3{
+#task3{
   color: #B413FF;
   text-align: center;
   font-size: 80px;
